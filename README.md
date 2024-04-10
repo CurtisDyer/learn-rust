@@ -1,2 +1,2 @@
 # learn-rust
-Random project ideas to learn Rust.
+This is just a random collection of projects for learning Rust.
